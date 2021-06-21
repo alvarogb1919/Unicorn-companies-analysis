@@ -29,6 +29,9 @@ Overall I hope that after going through the analysis performed you are able to g
 - Pandas - https://pandas.pydata.org/
 - Seaborn - https://seaborn.pydata.org/#
 - Matplotlib - https://matplotlib.org/
+- Datetime - https://docs.python.org/3/library/datetime.html
+- Requests - https://docs.python-requests.org/en/master/
+- BeautifulSoup - https://www.crummy.com/software/BeautifulSoup/
 - Kaggle(for inital dataset) - https://www.kaggle.com/
 - DealRoom (mentioned above for web scraping) - https://dealroom.co/
 
